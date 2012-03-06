@@ -11,5 +11,5 @@ Used resources
 * http://community.qlikview.com/docs/DOC-2639
 * https://github.com/ascendedguard/sc2replay-csharp
 
-2012, Stefan Bäckstrand
+2012, Stefan Bäckstrand 
  
